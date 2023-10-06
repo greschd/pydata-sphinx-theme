@@ -7,7 +7,7 @@
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
     "copy-webpack-plugin": "^5.1.1",
-    "css-loader": "^3.4.2",
+    "css-loader": "^6.8.1",
     "dedent": "^0.7.0",
     "extract-loader": "^4.0.3",
     "file-loader": "^5.0.2",
@@ -15,7 +15,7 @@
     "imports-loader": "^0.8.0",
     "mini-css-extract-plugin": "^0.9.0",
     "node-sass": "^6.0.1",
-    "optimize-css-assets-webpack-plugin": "^5.0.3",
+    "optimize-css-assets-webpack-plugin": "^6.0.1",
     "pa11y-ci": "^2.4.0",
     "pa11y-ci-reporter-html": "^2.1.2",
     "sass-loader": "^10.1.1",
@@ -31,7 +31,7 @@
     "@fortawesome/fontawesome-free": "5.13.0",
     "bootstrap": "^4.4.1",
     "jquery": "3.5.1",
-    "optimize-css-assets-webpack-plugin": "^5.0.3",
+    "optimize-css-assets-webpack-plugin": "^6.0.1",
     "popper.js": "^1.16.1"
   }
 }
